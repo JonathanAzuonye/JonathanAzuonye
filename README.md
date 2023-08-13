@@ -19,9 +19,9 @@ I'm a passionate software developer with a love for creating web applications th
 
 ### 🚀 My Projects
 
-- Afripro(link-to-project1) - A description of your awesome project.
-- Spiratech(link-to-project2) - Another amazing project I've worked on.
-- Sawapay(link-to-project2) - Another amazing project I've worked on.
+- [Afripro](link-to-project1) - A description of your awesome project.
+- [Spiratech](link-to-project2) - Another amazing project I've worked on.
+- [Sawapay](link-to-project2) - Another amazing project I've worked on.
 
 ### 💬 Get in Touch
 
